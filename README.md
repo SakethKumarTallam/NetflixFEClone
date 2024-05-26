@@ -1,1 +1,2 @@
 I'm Saketh Kumar Tallam.In The netflix folder it contains the clone website of netflix with only HTML and CSS languages that have been used.
+In the folder netflix.html is the main HTML file which containts the structure of the website and netflix.css is the CSS file which contains the styling of the website and The remaining files are the essentials to build the website like images,favicons,videos etc.
